@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaBase" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wyXMEwdVWBeZ9d0QJ2up85soPU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main/java/utils" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code-java\common\src\main\java\utils" />
+      <recent name="E:\code-java\src\main\java\json" />
+      <recent name="E:\code-java\src\main\java\rsa" />
+      <recent name="E:\code-java\src\main\java\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OrgJsonUtils">
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.DateUtils" />
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDownloader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.FileDownloader" />
+      <module name="JavaBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkhttpMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="http.OkhttpMain" />
+      <module name="JavaBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrgJsonUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.OrgJsonUtils" />
+      <module name="JavaBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="str.StringUtils" />
+      <module name="JavaBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="str.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrgJsonUtils" />
+        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.StringUtils" />
+        <item itemvalue="Application.OkhttpMain" />
+        <item itemvalue="Application.FileDownloader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\USER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="" />
+      <created>1629431751340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629431751340</updated>
+      <workItem from="1629431753497" duration="14000" />
+      <workItem from="1629458916219" duration="1392000" />
+      <workItem from="1630669488258" duration="89000" />
+      <workItem from="1630669616680" duration="133000" />
+      <workItem from="1630723999132" duration="1680000" />
+      <workItem from="1631520814942" duration="1080000" />
+      <workItem from="1631695175954" duration="2412000" />
+      <workItem from="1631780651824" duration="1049000" />
+      <workItem from="1631857283396" duration="4257000" />
+      <workItem from="1632820030224" duration="1128000" />
+      <workItem from="1632904811589" duration="1482000" />
+      <workItem from="1632976115869" duration="102000" />
+      <workItem from="1633933672525" duration="3177000" />
+      <workItem from="1634008458870" duration="4793000" />
+      <workItem from="1634097396604" duration="4786000" />
+      <workItem from="1634208517032" duration="81000" />
+      <workItem from="1634208669040" duration="3599000" />
+      <workItem from="1634275953147" duration="602000" />
+      <workItem from="1634538953657" duration="2083000" />
+      <workItem from="1634606903505" duration="1778000" />
+      <workItem from="1635319628656" duration="35000" />
+      <workItem from="1635993343179" duration="1058000" />
+      <workItem from="1637750911764" duration="123000" />
+      <workItem from="1640748873394" duration="9120000" />
+      <workItem from="1640833924277" duration="4973000" />
+      <workItem from="1641352593787" duration="2668000" />
+      <workItem from="1642401143939" duration="82000" />
+      <workItem from="1642495385708" duration="52000" />
+      <workItem from="1643006339386" duration="275000" />
+      <workItem from="1644464801188" duration="36000" />
+      <workItem from="1646359471843" duration="2045000" />
+      <workItem from="1646374392021" duration="1317000" />
+      <workItem from="1648609320373" duration="1298000" />
+      <workItem from="1648629925000" duration="845000" />
+      <workItem from="1648711092604" duration="5449000" />
+      <workItem from="1648717220997" duration="1353000" />
+      <workItem from="1648865616111" duration="5088000" />
+      <workItem from="1649748052510" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648716355856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648716355856" />
+    <state x="735" y="261" key="FileChooserDialogImpl" timestamp="1648865756662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648865756662" />
+    <state width="1496" height="460" key="GridCell.Tab.0.bottom" timestamp="1648896335311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="460" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
+    <state width="1496" height="460" key="GridCell.Tab.0.center" timestamp="1648896335311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="460" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
+    <state width="1496" height="460" key="GridCell.Tab.0.left" timestamp="1648896335311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="460" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
+    <state width="1496" height="460" key="GridCell.Tab.0.right" timestamp="1648896335311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1496" height="460" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
+    <state x="27" y="0" width="998" height="708" key="SettingsEditor" timestamp="1648866846825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="27" y="0" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648866846825" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1649748053783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649748053783" />
+    <state x="718" y="441" key="extract.method.dialog" timestamp="1641354466511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="441" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641354466511" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1648866561000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648866561000" />
+    <state x="669" y="215" key="new project wizard" timestamp="1648716873151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1648716873151" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1648884956331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648884956331" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaBase$StringUtils.ic" NAME="StringUtils Coverage Results" MODIFIED="1648715845062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>str.*</FILTER>
+    </SUITE>
+  </component>
+</project>
