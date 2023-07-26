@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="core" />
         <module name="common" />
+        <module name="arison-core" />
         <module name="utils" />
       </profile>
     </annotationProcessing>

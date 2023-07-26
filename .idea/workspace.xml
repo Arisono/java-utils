@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="" />
+    <list default="true" id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rx/DBRxManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rx/IDBRxManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rx/RxJavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rx/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rx/operator/FlatMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/str/ChangeCharset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/pool/ThreadPoolTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/LogsUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/utils/DateUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/JSONMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/JSONMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/gson/GsonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/gson/GsonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/str/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/str/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/RegularUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/RegularUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/http/HttpRequestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/http/HttpRequestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/http/OkhttpMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/http/OkhttpMain$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/http/OkhttpMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/http/OkhttpMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/JSONMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/JSONMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/fastjson/FastJsonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/fastjson/FastJsonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/gson/GsonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/gson/GsonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/json/gson/OrgjsonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/gson/OrgjsonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1$AreaInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1$AreaInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rsa/RSACoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rsa/RSACoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rsa/RSAUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rsa/RSAUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/str/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/str/StringUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/CountDownTask$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/CountDownTask$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/CountDownTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/CountDownTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/EventMessageRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/EventMessageRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/CountDownListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/CountDownListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TaskMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TaskMain$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TaskMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TaskMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TimeCountDownTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TimeCountDownTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TimerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TimerManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/OrgJsonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/OrgJsonUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/RegularUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/RegularUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaBase" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,23 +66,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1wyXMEwdVWBeZ9d0QJ2up85soPU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main/java/utils" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\code-java\common\src\main\java\utils" />
@@ -43,10 +92,38 @@
       <recent name="E:\code-java\src\main\java\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OrgJsonUtils">
-    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utils.DateUtils" />
-      <module name="common" />
+  <component name="RunManager" selected="Application.LogsUtilsTest">
+    <configuration name="ChangeCharset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="str.ChangeCharset" />
+      <module name="com.arison.base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="str.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rx.operator.FlatMapTest" />
+      <module name="com.arison.base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rx.operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogsUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.LogsUtilsTest" />
+      <module name="com.arison.base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="utils.*" />
@@ -57,35 +134,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDownloader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.FileDownloader" />
-      <module name="JavaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OkhttpMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="http.OkhttpMain" />
-      <module name="JavaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="http.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrgJsonUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utils.OrgJsonUtils" />
-      <module name="JavaBase" />
+    <configuration name="RegularUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.RegularUtils" />
+      <module name="com.arison.base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="utils.*" />
@@ -98,7 +149,7 @@
     </configuration>
     <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="str.StringUtils" />
-      <module name="JavaBase" />
+      <module name="com.arison.base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="str.*" />
@@ -109,16 +160,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadPoolTestMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.pool.ThreadPoolTestMain" />
+      <module name="com.arison.base" />
+      <option name="VM_PARAMETERS" value="-Xms1m -Xmx1m  -XX:+HeapDumpOnOutOfMemoryError " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrgJsonUtils" />
-        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.LogsUtilsTest" />
+        <item itemvalue="Application.RegularUtils" />
         <item itemvalue="Application.StringUtils" />
-        <item itemvalue="Application.OkhttpMain" />
-        <item itemvalue="Application.FileDownloader" />
+        <item itemvalue="Application.ChangeCharset" />
+        <item itemvalue="Application.FlatMapTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\USER\AppData\Roaming\Subversion</configuration>
   </component>
@@ -166,65 +232,80 @@
       <workItem from="1648711092604" duration="5449000" />
       <workItem from="1648717220997" duration="1353000" />
       <workItem from="1648865616111" duration="5088000" />
-      <workItem from="1649748052510" duration="248000" />
+      <workItem from="1649748052510" duration="2365000" />
+      <workItem from="1650597560363" duration="774000" />
+      <workItem from="1650944580544" duration="664000" />
+      <workItem from="1651133617635" duration="2734000" />
+      <workItem from="1652236013235" duration="1397000" />
+      <workItem from="1652779231131" duration="1357000" />
+      <workItem from="1653370634421" duration="2143000" />
+      <workItem from="1653465741595" duration="867000" />
+      <workItem from="1654498719919" duration="1692000" />
+      <workItem from="1654567476303" duration="3581000" />
+      <workItem from="1656318358943" duration="1436000" />
+      <workItem from="1656403880784" duration="1666000" />
+      <workItem from="1659687584863" duration="2041000" />
+      <workItem from="1660032612613" duration="1613000" />
+      <workItem from="1660269208004" duration="899000" />
+      <workItem from="1660527676441" duration="1503000" />
+      <workItem from="1660564363416" duration="70000" />
+      <workItem from="1662031423640" duration="728000" />
+      <workItem from="1662463623289" duration="1805000" />
+      <workItem from="1662708688066" duration="859000" />
+      <workItem from="1663223608802" duration="1485000" />
+      <workItem from="1663659799814" duration="9000" />
+      <workItem from="1663662832125" duration="95000" />
+      <workItem from="1663663287101" duration="6919000" />
+      <workItem from="1663726147635" duration="9061000" />
+      <workItem from="1663752969744" duration="2973000" />
+      <workItem from="1667282516712" duration="11000" />
+      <workItem from="1667282673636" duration="159000" />
+      <workItem from="1667879589098" duration="643000" />
+      <workItem from="1667973495280" duration="797000" />
+      <workItem from="1668158192664" duration="783000" />
+      <workItem from="1668999182369" duration="1413000" />
+      <workItem from="1669105679883" duration="8634000" />
+      <workItem from="1669291838761" duration="1620000" />
+      <workItem from="1669685457226" duration="1865000" />
+      <workItem from="1670222270892" duration="787000" />
+      <workItem from="1673001326675" duration="1612000" />
+      <workItem from="1673233189279" duration="3092000" />
+      <workItem from="1675770515053" duration="7979000" />
+      <workItem from="1676515009286" duration="2996000" />
+      <workItem from="1676531107950" duration="2832000" />
+      <workItem from="1677657147500" duration="150000" />
+      <workItem from="1678759952955" duration="1381000" />
+      <workItem from="1679560666892" duration="3056000" />
+      <workItem from="1679903668468" duration="7169000" />
+      <workItem from="1680055527596" duration="936000" />
+      <workItem from="1680749898082" duration="8293000" />
+      <workItem from="1681114297344" duration="2048000" />
+      <workItem from="1682403412359" duration="513000" />
+      <workItem from="1690359820716" duration="2501000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648716355856">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648716355856" />
-    <state x="735" y="261" key="FileChooserDialogImpl" timestamp="1648865756662">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="735" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648865756662" />
-    <state width="1496" height="460" key="GridCell.Tab.0.bottom" timestamp="1648896335311">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1496" height="460" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
-    <state width="1496" height="460" key="GridCell.Tab.0.center" timestamp="1648896335311">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1496" height="460" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
-    <state width="1496" height="460" key="GridCell.Tab.0.left" timestamp="1648896335311">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1496" height="460" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
-    <state width="1496" height="460" key="GridCell.Tab.0.right" timestamp="1648896335311">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1496" height="460" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1648896335311" />
-    <state x="27" y="0" width="998" height="708" key="SettingsEditor" timestamp="1648866846825">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="27" y="0" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648866846825" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1649748053783">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649748053783" />
-    <state x="718" y="441" key="extract.method.dialog" timestamp="1641354466511">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="718" y="441" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641354466511" />
-    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1648866561000">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648866561000" />
-    <state x="669" y="215" key="new project wizard" timestamp="1648716873151">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="669" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1648716873151" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1648884956331">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648884956331" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/str/StringUtils.java</url>
+          <line>1751</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/utils/LogUtils.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaBase$StringUtils.ic" NAME="StringUtils Coverage Results" MODIFIED="1648715845062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

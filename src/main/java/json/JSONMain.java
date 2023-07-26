@@ -1,25 +1,56 @@
 package json;
 
 import com.alibaba.fastjson.JSON;
+import com.google.gson.Gson;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
 import org.apache.commons.lang3.StringEscapeUtils;
 import org.json.JSONObject;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class JSONMain {
 
     public static void main(String[] args) {
-        //test01();
+        test02();
 
     }
 
+
+    /**
+     * 
+     */
+    private static void test02() {
+
+        JSONObject paramObject = new JSONObject();
+        paramObject.put("test1", "test1");
+        paramObject.put("test2", "test2");
+        paramObject.put("test3", "test3");
+
+        Map<String, Object> objectMap = new HashMap<String, Object>();
+        objectMap.put("map1", "map1");
+        objectMap.put("map2", "map2");
+        objectMap.put("map3", "map3");
+
+        Map<String, Object> body_param = new HashMap<String, Object>();
+
+        body_param.put("param", paramObject);
+        body_param.put("param2", objectMap);
+        body_param.put("param1", "param1");
+
+        System.out.println("org json:" + JSONObject.valueToString(body_param));
+        System.out.println("gson:" + new Gson().toJson(body_param));
+    }
+
+
     private static void test01() {
-        int i= (int) 634.67;
-        double p=634.66;
+        int i = (int) 634.67;
+        double p = 634.66;
         System.out.println(i);
-        if(i>p){
+        if (i > p) {
             System.out.println("i>p=true");
-        }else{
+        } else {
             System.out.println("i>p=false");
         }
 
