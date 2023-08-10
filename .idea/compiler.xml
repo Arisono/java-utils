@@ -10,6 +10,7 @@
         <module name="common" />
         <module name="arison-core" />
         <module name="utils" />
+        <module name="algorithm" />
       </profile>
     </annotationProcessing>
   </component>

@@ -5,53 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/utils/LogUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rx/DBRxManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rx/IDBRxManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rx/RxJavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rx/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rx/operator/FlatMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/str/ChangeCharset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/pool/ThreadPoolTestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/LogsUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HillSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/base/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/test/java/com/arison/base/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/utils/DateUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/utils/LogUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/utils/LogUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/json/JSONMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/JSONMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/json/gson/GsonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/gson/GsonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/str/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/str/StringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/RegularUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/RegularUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/http/HttpRequestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/http/HttpRequestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/http/OkhttpMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/http/OkhttpMain$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/http/OkhttpMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/http/OkhttpMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/json/JSONMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/JSONMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/json/fastjson/FastJsonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/fastjson/FastJsonMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/json/gson/GsonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/gson/GsonMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/json/gson/OrgjsonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/gson/OrgjsonMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1$AreaInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1$AreaInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/MotionDetectConfig1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rsa/RSACoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rsa/RSACoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rsa/RSAUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/rsa/RSAUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/str/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/str/StringUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/CountDownTask$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/CountDownTask$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/CountDownTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/CountDownTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/EventMessageRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/EventMessageRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/ThreadMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/CountDownListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/CountDownListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TaskMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TaskMain$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TaskMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TaskMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TimeCountDownTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TimeCountDownTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/thread/task/TimerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/thread/task/TimerManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/OrgJsonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/OrgJsonUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/RegularUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/RegularUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/utils.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +45,13 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\code-java\common\src\main\java\utils" />
@@ -92,13 +60,13 @@
       <recent name="E:\code-java\src\main\java\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LogsUtilsTest">
-    <configuration name="ChangeCharset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="str.ChangeCharset" />
-      <module name="com.arison.base" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.BubbleSort" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="str.*" />
+          <option name="PATTERN" value="com.arison.algorithm.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,14 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlatMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="rx.operator.FlatMapTest" />
-      <module name="com.arison.base" />
+    <configuration name="HillSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.HillSort" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rx.operator.*" />
+          <option name="PATTERN" value="com.arison.algorithm.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogsUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utils.LogsUtilsTest" />
-      <module name="com.arison.base" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.InsertionSort" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utils.*" />
+          <option name="PATTERN" value="com.arison.algorithm.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utils.RegularUtils" />
-      <module name="com.arison.base" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.QuickSort" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utils.*" />
+          <option name="PATTERN" value="com.arison.algorithm.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="str.StringUtils" />
-      <module name="com.arison.base" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.SelectionSort" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="str.*" />
+          <option name="PATTERN" value="com.arison.algorithm.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LogsUtilsTest" />
-        <item itemvalue="Application.RegularUtils" />
-        <item itemvalue="Application.StringUtils" />
-        <item itemvalue="Application.ChangeCharset" />
-        <item itemvalue="Application.FlatMapTest" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.HillSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +247,11 @@
       <workItem from="1680749898082" duration="8293000" />
       <workItem from="1681114297344" duration="2048000" />
       <workItem from="1682403412359" duration="513000" />
-      <workItem from="1690359820716" duration="2501000" />
+      <workItem from="1690359820716" duration="3310000" />
+      <workItem from="1691375689845" duration="1251000" />
+      <workItem from="1691396106355" duration="847000" />
+      <workItem from="1691400430746" duration="696000" />
+      <workItem from="1691485331094" duration="28983000" />
     </task>
     <servers />
   </component>
