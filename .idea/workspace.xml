@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/src/main/java/com/arison/base/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/src/test/java/com/arison/base/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithread/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithread/src/main/java/com/arison/base/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithread/src/test/java/com/arison/base/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/target/classes/com/arison/algorithm/sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/target/classes/com/arison/algorithm/sorting/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +236,7 @@
       <workItem from="1691375689845" duration="1251000" />
       <workItem from="1691396106355" duration="847000" />
       <workItem from="1691400430746" duration="696000" />
-      <workItem from="1691485331094" duration="38164000" />
+      <workItem from="1691485331094" duration="38225000" />
     </task>
     <servers />
   </component>
