@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>algorithm</artifactId>
+    <artifactId>multithread</artifactId>
     <packaging>jar</packaging>
-    <!--算法学习-->
-    <name>algorithm</name>
+    <!--多线程学习-->
+    <name>multithread</name>
     <url>http://maven.apache.org</url>
 
     <properties>

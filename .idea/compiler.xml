@@ -9,7 +9,9 @@
         <module name="core" />
         <module name="common" />
         <module name="arison-core" />
+        <module name="multithread" />
         <module name="utils" />
+        <module name="design" />
         <module name="algorithm" />
       </profile>
     </annotationProcessing>

@@ -25,6 +25,8 @@
         <module>utils</module>
         <module>core</module>
         <module>algorithm</module>
+        <module>design</module>
+        <module>multithread</module>
     </modules>
 
 

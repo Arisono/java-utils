@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d791a314-23c5-4dbf-aaa4-508794fe37bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HillSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/base/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/test/java/com/arison/base/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/src/main/java/com/arison/base/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/src/test/java/com/arison/base/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/src/main/java/com/arison/base/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithread/src/test/java/com/arison/base/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/utils/LogUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/utils/LogUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/arison/algorithm/sorting/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/target/classes/com/arison/algorithm/sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/target/classes/com/arison/algorithm/sorting/QuickSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,8 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8"
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,9 +61,9 @@
       <recent name="E:\code-java\src\main\java\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.BubbleSort" />
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.HeapSort" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.QuickSort" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.MergeSort" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.SelectionSort" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arison.algorithm.sorting.QuickSort" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.HillSort" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +252,7 @@
       <workItem from="1691375689845" duration="1251000" />
       <workItem from="1691396106355" duration="847000" />
       <workItem from="1691400430746" duration="696000" />
-      <workItem from="1691485331094" duration="28983000" />
+      <workItem from="1691485331094" duration="38164000" />
     </task>
     <servers />
   </component>
