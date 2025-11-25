@@ -1,6 +1,6 @@
 package rx;
 
-import com.sun.activation.registries.LogSupport;
+
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
 import io.reactivex.ObservableOnSubscribe;

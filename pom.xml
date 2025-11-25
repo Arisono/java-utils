@@ -13,11 +13,14 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+
                 <configuration>
                     <source>8</source>
                     <target>8</target>
                 </configuration>
             </plugin>
+
+
         </plugins>
     </build>
     <modules>
@@ -87,8 +90,93 @@
         </dependency>
 
 
+        <!-- ftp远程工具 -->
+        <dependency>
+            <groupId>commons-net</groupId>
+            <artifactId>commons-net</artifactId>
+            <version>3.11.1</version>
+        </dependency>
+
+        <!-- Maven Dependency -->
+
+<!--        <dependency>-->
+<!--            <groupId>com.jcraft</groupId>-->
+<!--            <artifactId>jsch</artifactId>-->
+<!--            <version>0.1.53</version>-->
+<!--        </dependency>-->
+        <!-- BouncyCastle Provider -->
+        <!-- BouncyCastle Provider -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+        <!-- BouncyCastle PKIX/CMS -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcpkix-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+        <!-- BouncyCastle JSSE -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bctls-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+
+        <!--mixPush推送-->
+
+        <dependency>
+            <groupId>io.github.mixpush</groupId>
+            <artifactId>mixpush-sender</artifactId>
+            <version>2.3.9</version>
+        </dependency>
+
+      <!--  <dependency>
+            <groupId>com.github.Arisono</groupId>
+            <artifactId>widgets</artifactId>
+            <version>1.0.1</version>
+        </dependency>-->
+
+        <dependency>
+            <groupId>com.getui.push</groupId>
+            <artifactId>restful-sdk</artifactId>
+            <version>1.0.6.0</version>
+        </dependency>
+
+        <!-- spring 相关jar -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.3.9.RELEASE</version>
+           <!-- <scope>provided</scope>-->
+        </dependency>
+
 
     </dependencies>
 
+
+ <!--   <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>-->
+    <repositories>
+        <repository>
+            <id>alimaven</id>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>alimaven</id>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </pluginRepository>
+    </pluginRepositories>
 
 </project>

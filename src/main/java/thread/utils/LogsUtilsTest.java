@@ -1,4 +1,6 @@
-package utils;
+package thread.utils;
+
+import utils.LogUtils;
 
 /**
  * 日之类测试方法
@@ -27,6 +29,6 @@ public class LogsUtilsTest {
         childMethod();
     }
     private static  void childMethod(){
-        System.out.println("childMethod StackTrace:"+LogUtils.getParentClassStackTrace(LogsUtilsTest.class.getName()));
+        System.out.println("childMethod StackTrace:"+ LogUtils.getParentClassStackTrace(LogsUtilsTest.class.getName()));
     }
 }
